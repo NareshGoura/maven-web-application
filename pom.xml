@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://54.205.152.121:9848/nareshtechnologies/repository/HMLR_Snapshot/</url>
+	      <url>http://54.205.152.121:9848/nareshtechnologies/repository/HMLR_Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
