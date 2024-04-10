@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Naresh Technologies Pvt Ltd. Ph No: +91-9980923226  ,Bengaluru,Karnataka.</h1>
+<h1 align="center">Welcome to Mahesh Technologies Pvt Ltd. Ph No: +91-9980923226  ,Bengaluru,Karnataka.</h1>
 <h1 align="center"> Naresh Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect in Bangalore India.Teaching Real Time scnerios</h1>
 <hr>
 <br>
