@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://44.201.227.54:9848/nareshtechnologies/repository/HMLR_Release/</url>
+	      <url>http://54.205.152.121:9848/nareshtechnologies/repository/HMLR_Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.201.227.54:9848/nareshtechnologies/repository/HMLR_Snapshot/</url>
+	      <url>http://http://54.205.152.121:9848/nareshtechnologies/repository/HMLR_Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
